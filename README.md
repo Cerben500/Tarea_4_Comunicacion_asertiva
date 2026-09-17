@@ -31,3 +31,5 @@ Gestión Centralizada: Uso de GitHub como herramienta del trabajo colaborativo, 
 Optimización: Transformación de las reuniones virtuales en eficientes mediante el uso de agendas previas y la asignación de roles.
 
 Prevención: Un plan de emergencia preparado para actuar de inmediato y mantener el flujo de trabajo ante cualquier caída de sistema o problema.
+
+Link del video: https://youtu.be/JVOjW3P_8nY
